@@ -1,0 +1,7 @@
+{
+  "name": "Buffering_BrainMate",
+  "description": "A compassionate personal mental health assistant that converses with you daily to track your mood, identify potential symptoms, and offer constructive coping mechanisms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
